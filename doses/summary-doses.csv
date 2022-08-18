@@ -1,9 +1,9 @@
 Group,,doses_admin
-,boro_queens,9106
-,boro_statenisland,369
 ,boro_bronx,3377
 ,boro_brooklyn,18057
 ,boro_manhattan,29559
+,boro_queens,9106
+,boro_statenisland,369
 ,boro_unk,2860
 ,age_0_17_yr,0
 ,age_18_24_yr,5763
@@ -13,12 +13,12 @@ Group,,doses_admin
 ,age_55_64_yr,4882
 ,age_65_74_yr,1246
 ,age_85_plus_yr,17
-,gender_tgw,969
-,gender_unkn,1503
+,gender_men,54734
 ,gender_ncnb,3888
 ,gender_tgm,496
-,gender_men,54734
+,gender_tgw,969
 ,gender_women,1389
+,gender_unkn,1503
 ,re_asian,6472
 ,re_black,7574
 ,re_hispanic,14769

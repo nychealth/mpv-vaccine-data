@@ -1,15 +1,15 @@
 DATE,GROUP,SUBGROUP,COUNT_AT_RISK,PERC_HIGH_RISK,PERC_VACCINATED
-2022-09-28,Age,18-24,"16,000",12%,8.93%
-2022-09-28,Age,25-44,"76,000",57%,65.65%
-2022-09-28,Age,45-64,"35,000",26%,22.19%
-2022-09-28,Age,65+,"7,000",5%,3.20%
-2022-09-28,Race/ethnicity,"Asian/PI, non-Latino","10,000",7%,10.79%
-2022-09-28,Race/ethnicity,"Black, non-Latino","41,000",31%,12.83%
-2022-09-28,Race/ethnicity,Latino,"21,000",16%,23.30%
-2022-09-28,Race/ethnicity,"Other, non-Latino","3,000",2%,5.21%
-2022-09-28,Race/ethnicity,"White, non-Latino","60,000",45%,47.86%
-2022-09-28,Borough,Bronx,"14,000",10%,5.40%
-2022-09-28,Borough,Brooklyn,"31,000",23%,28.45%
-2022-09-28,Borough,Manhattan,"59,000",44%,44.96%
-2022-09-28,Borough,Queens,"22,000",16%,14.49%
-2022-09-28,Borough,Staten Island,"9,000",7%,0.82%
+2022-10-05,Age,18-24,"16,000",12%,8.82%
+2022-10-05,Age,25-44,"76,000",57%,65.18%
+2022-10-05,Age,45-64,"35,000",26%,22.63%
+2022-10-05,Age,65+,"7,000",5%,3.35%
+2022-10-05,Race/ethnicity,"Asian/PI, non-Latino","10,000",7%,10.81%
+2022-10-05,Race/ethnicity,"Black, non-Latino","41,000",31%,12.80%
+2022-10-05,Race/ethnicity,Latino,"21,000",16%,23.38%
+2022-10-05,Race/ethnicity,"Other, non-Latino","3,000",2%,5.13%
+2022-10-05,Race/ethnicity,"White, non-Latino","60,000",45%,47.88%
+2022-10-05,Borough,Bronx,"14,000",10%,5.47%
+2022-10-05,Borough,Brooklyn,"31,000",23%,28.37%
+2022-10-05,Borough,Manhattan,"59,000",44%,44.74%
+2022-10-05,Borough,Queens,"22,000",16%,14.49%
+2022-10-05,Borough,Staten Island,"9,000",7%,0.84%

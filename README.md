@@ -34,7 +34,7 @@ People who have had multiple or anonymous sex partners in the last 14 days and i
 - People who know or suspect they have been exposed to MPV in the last 14 days.
 - Anyone else who considers themselves to be at risk for MPV through sex or other intimate contact.
 
-# Definitions 
+## Definitions: 
 - **Doses Administered:** The number of monkeypox vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents. 
 - **Dose Number:** Dose information is determined by the sequence of date of vaccination event in the CIR. Data are broken out by the two-dose JYENNEOS vaccine series. 
   - **Dose 1:** First dose of a two-dose vaccine series

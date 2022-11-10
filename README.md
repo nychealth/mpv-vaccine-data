@@ -36,7 +36,7 @@ People who have had multiple or anonymous sex partners in the last 14 days and i
 
 ## Definitions: 
 - **Doses Administered:** The number of monkeypox vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents. 
-- **Dose Number:** Dose information is determined by the sequence of date of vaccination event in the CIR. Data are broken out by the two-dose JYENNEOS vaccine series. 
+- **Dose Number:** Dose information is determined by the sequence of date of vaccination event in the CIR. Data are broken out by the two-dose JYNNEOS vaccine series. 
   - **Dose 1:** First dose of a two-dose vaccine series
   - **Dose 2:** Second dose of a two-dose vaccine series 
 

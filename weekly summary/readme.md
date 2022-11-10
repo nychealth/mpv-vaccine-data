@@ -1,5 +1,5 @@
 # Weekly Summary/ 
-
+This folder contains data on MPV vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and non-NYC residents, such as individuals who work or study in NYC.
 
 ## Definitions:
 - **Doses Administered:** The number of monkeypox vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents.

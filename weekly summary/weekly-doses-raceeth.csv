@@ -33,153 +33,161 @@ week_start_date,Dimension Name,Dimension Value,admin_dose1,admin_dose2,admin_dos
 2022-06-19,Race/Ethnicity,White,11,0,25,1,11,26
 2022-06-26,Race/Ethnicity,2+ Races,6,0,6,0,6,6
 2022-06-26,Race/Ethnicity,Asian,34,0,35,0,34,35
-2022-06-26,Race/Ethnicity,Black,25,0,27,0,25,27
+2022-06-26,Race/Ethnicity,Black,24,0,26,0,24,26
 2022-06-26,Race/Ethnicity,Hispanic,70,1,83,1,71,84
 2022-06-26,Race/Ethnicity,Native American/Alaska Native,0,0,0,0,0,0
 2022-06-26,Race/Ethnicity,Native Hawaiian/Pacific Islander,2,0,2,0,2,2
 2022-06-26,Race/Ethnicity,Other/Unknown,85,0,87,0,85,87
-2022-06-26,Race/Ethnicity,White,418,5,443,6,423,449
+2022-06-26,Race/Ethnicity,White,419,5,444,6,424,450
 2022-07-03,Race/Ethnicity,2+ Races,4,0,10,0,4,10
 2022-07-03,Race/Ethnicity,Asian,20,0,55,0,20,55
-2022-07-03,Race/Ethnicity,Black,15,1,42,1,16,43
-2022-07-03,Race/Ethnicity,Hispanic,34,2,117,3,36,120
+2022-07-03,Race/Ethnicity,Black,15,1,41,1,16,42
+2022-07-03,Race/Ethnicity,Hispanic,33,2,116,3,35,119
 2022-07-03,Race/Ethnicity,Native American/Alaska Native,0,0,0,0,0,0
 2022-07-03,Race/Ethnicity,Native Hawaiian/Pacific Islander,0,0,2,0,0,2
 2022-07-03,Race/Ethnicity,Other/Unknown,31,1,118,1,32,119
-2022-07-03,Race/Ethnicity,White,219,2,662,8,221,670
-2022-07-10,Race/Ethnicity,2+ Races,25,0,35,0,25,35
-2022-07-10,Race/Ethnicity,Asian,215,0,270,0,215,270
-2022-07-10,Race/Ethnicity,Black,100,0,142,1,100,143
-2022-07-10,Race/Ethnicity,Hispanic,294,3,411,6,297,417
+2022-07-03,Race/Ethnicity,White,220,2,664,8,222,672
+2022-07-10,Race/Ethnicity,2+ Races,26,0,36,0,26,36
+2022-07-10,Race/Ethnicity,Asian,214,0,269,0,214,269
+2022-07-10,Race/Ethnicity,Black,99,0,140,1,99,141
+2022-07-10,Race/Ethnicity,Hispanic,294,3,410,6,297,416
 2022-07-10,Race/Ethnicity,Native American/Alaska Native,7,0,7,0,7,7
 2022-07-10,Race/Ethnicity,Native Hawaiian/Pacific Islander,3,0,5,0,3,5
 2022-07-10,Race/Ethnicity,Other/Unknown,27,1,145,2,28,147
-2022-07-10,Race/Ethnicity,White,1205,4,1867,12,1209,1879
-2022-07-17,Race/Ethnicity,2+ Races,106,0,141,0,106,141
-2022-07-17,Race/Ethnicity,Asian,668,0,938,0,668,938
-2022-07-17,Race/Ethnicity,Black,658,0,800,1,658,801
-2022-07-17,Race/Ethnicity,Hispanic,1347,6,1758,12,1353,1770
+2022-07-10,Race/Ethnicity,White,1206,4,1870,12,1210,1882
+2022-07-17,Race/Ethnicity,2+ Races,104,0,140,0,104,140
+2022-07-17,Race/Ethnicity,Asian,668,0,937,0,668,937
+2022-07-17,Race/Ethnicity,Black,657,0,797,1,657,798
+2022-07-17,Race/Ethnicity,Hispanic,1348,6,1758,12,1354,1770
 2022-07-17,Race/Ethnicity,Native American/Alaska Native,17,0,24,0,17,24
 2022-07-17,Race/Ethnicity,Native Hawaiian/Pacific Islander,16,0,21,0,16,21
-2022-07-17,Race/Ethnicity,Other/Unknown,91,0,236,2,91,238
-2022-07-17,Race/Ethnicity,White,3896,18,5763,30,3914,5793
-2022-07-24,Race/Ethnicity,2+ Races,152,1,293,1,153,294
-2022-07-24,Race/Ethnicity,Asian,734,1,1672,1,735,1673
-2022-07-24,Race/Ethnicity,Black,823,4,1623,5,827,1628
-2022-07-24,Race/Ethnicity,Hispanic,1683,8,3441,20,1691,3461
+2022-07-17,Race/Ethnicity,Other/Unknown,92,0,237,2,92,239
+2022-07-17,Race/Ethnicity,White,3900,18,5770,30,3918,5800
+2022-07-24,Race/Ethnicity,2+ Races,150,1,290,1,151,291
+2022-07-24,Race/Ethnicity,Asian,730,2,1667,2,732,1669
+2022-07-24,Race/Ethnicity,Black,825,4,1622,5,829,1627
+2022-07-24,Race/Ethnicity,Hispanic,1678,8,3436,20,1686,3456
 2022-07-24,Race/Ethnicity,Native American/Alaska Native,22,0,46,0,22,46
-2022-07-24,Race/Ethnicity,Native Hawaiian/Pacific Islander,19,1,40,1,20,41
-2022-07-24,Race/Ethnicity,Other/Unknown,139,2,375,4,141,379
-2022-07-24,Race/Ethnicity,White,4082,35,9845,65,4117,9910
-2022-07-31,Race/Ethnicity,2+ Races,233,0,526,1,233,527
-2022-07-31,Race/Ethnicity,Asian,1147,4,2819,5,1151,2824
-2022-07-31,Race/Ethnicity,Black,1562,7,3185,12,1569,3197
-2022-07-31,Race/Ethnicity,Hispanic,2817,6,6258,26,2823,6284
+2022-07-24,Race/Ethnicity,Native Hawaiian/Pacific Islander,20,1,41,1,21,42
+2022-07-24,Race/Ethnicity,Other/Unknown,136,2,373,4,138,377
+2022-07-24,Race/Ethnicity,White,4095,36,9865,66,4131,9931
+2022-07-31,Race/Ethnicity,2+ Races,230,0,520,1,230,521
+2022-07-31,Race/Ethnicity,Asian,1148,4,2815,6,1152,2821
+2022-07-31,Race/Ethnicity,Black,1559,7,3181,12,1566,3193
+2022-07-31,Race/Ethnicity,Hispanic,2818,5,6254,25,2823,6279
 2022-07-31,Race/Ethnicity,Native American/Alaska Native,30,0,76,0,30,76
-2022-07-31,Race/Ethnicity,Native Hawaiian/Pacific Islander,31,0,71,1,31,72
-2022-07-31,Race/Ethnicity,Other/Unknown,297,2,672,6,299,678
-2022-07-31,Race/Ethnicity,White,5859,63,15704,128,5922,15832
-2022-08-07,Race/Ethnicity,2+ Races,367,2,893,3,369,896
-2022-08-07,Race/Ethnicity,Asian,1790,20,4609,25,1810,4634
-2022-08-07,Race/Ethnicity,Black,2520,8,5705,20,2528,5725
-2022-08-07,Race/Ethnicity,Hispanic,4480,26,10738,52,4506,10790
-2022-08-07,Race/Ethnicity,Native American/Alaska Native,54,1,130,1,55,131
-2022-08-07,Race/Ethnicity,Native Hawaiian/Pacific Islander,39,0,110,1,39,111
-2022-08-07,Race/Ethnicity,Other/Unknown,457,2,1129,8,459,1137
-2022-08-07,Race/Ethnicity,White,7860,69,23564,197,7929,23761
-2022-08-14,Race/Ethnicity,2+ Races,420,3,1313,6,423,1319
-2022-08-14,Race/Ethnicity,Asian,2021,39,6630,64,2060,6694
-2022-08-14,Race/Ethnicity,Black,2908,35,8613,55,2943,8668
-2022-08-14,Race/Ethnicity,Hispanic,4729,60,15467,112,4789,15579
-2022-08-14,Race/Ethnicity,Native American/Alaska Native,38,2,168,3,40,171
-2022-08-14,Race/Ethnicity,Native Hawaiian/Pacific Islander,34,0,144,1,34,145
-2022-08-14,Race/Ethnicity,Other/Unknown,573,10,1702,18,583,1720
-2022-08-14,Race/Ethnicity,White,8635,218,32199,415,8853,32614
-2022-08-21,Race/Ethnicity,2+ Races,189,6,1502,12,195,1514
-2022-08-21,Race/Ethnicity,Asian,923,45,7553,109,968,7662
-2022-08-21,Race/Ethnicity,Black,1274,69,9887,124,1343,10011
-2022-08-21,Race/Ethnicity,Hispanic,2174,106,17641,218,2280,17859
-2022-08-21,Race/Ethnicity,Native American/Alaska Native,25,1,193,4,26,197
-2022-08-21,Race/Ethnicity,Native Hawaiian/Pacific Islander,15,3,159,4,18,163
-2022-08-21,Race/Ethnicity,Other/Unknown,302,16,2004,34,318,2038
-2022-08-21,Race/Ethnicity,White,4099,385,36298,800,4484,37098
-2022-08-28,Race/Ethnicity,2+ Races,131,1,1633,13,132,1646
-2022-08-28,Race/Ethnicity,Asian,737,46,8290,155,783,8445
-2022-08-28,Race/Ethnicity,Black,909,83,10796,207,992,11003
-2022-08-28,Race/Ethnicity,Hispanic,1585,106,19226,324,1691,19550
-2022-08-28,Race/Ethnicity,Native American/Alaska Native,13,1,206,5,14,211
-2022-08-28,Race/Ethnicity,Native Hawaiian/Pacific Islander,19,2,178,6,21,184
-2022-08-28,Race/Ethnicity,Other/Unknown,207,24,2211,58,231,2269
-2022-08-28,Race/Ethnicity,White,2965,399,39263,1199,3364,40462
-2022-09-04,Race/Ethnicity,2+ Races,106,8,1739,21,114,1760
-2022-09-04,Race/Ethnicity,Asian,685,63,8975,218,748,9193
-2022-09-04,Race/Ethnicity,Black,723,93,11519,300,816,11819
-2022-09-04,Race/Ethnicity,Hispanic,1277,142,20503,466,1419,20969
-2022-09-04,Race/Ethnicity,Native American/Alaska Native,15,8,221,13,23,234
-2022-09-04,Race/Ethnicity,Native Hawaiian/Pacific Islander,12,2,190,8,14,198
-2022-09-04,Race/Ethnicity,Other/Unknown,210,17,2421,75,227,2496
-2022-09-04,Race/Ethnicity,White,2499,496,41762,1695,2995,43457
-2022-09-11,Race/Ethnicity,2+ Races,57,65,1796,86,122,1882
-2022-09-11,Race/Ethnicity,Asian,343,370,9318,588,713,9906
-2022-09-11,Race/Ethnicity,Black,333,357,11852,657,690,12509
-2022-09-11,Race/Ethnicity,Hispanic,752,604,21255,1070,1356,22325
-2022-09-11,Race/Ethnicity,Native American/Alaska Native,12,7,233,20,19,253
-2022-09-11,Race/Ethnicity,Native Hawaiian/Pacific Islander,5,8,195,16,13,211
-2022-09-11,Race/Ethnicity,Other/Unknown,98,51,2519,126,149,2645
-2022-09-11,Race/Ethnicity,White,1329,1856,43091,3551,3185,46642
-2022-09-18,Race/Ethnicity,2+ Races,49,177,1845,263,226,2108
-2022-09-18,Race/Ethnicity,Asian,286,1037,9604,1625,1323,11229
-2022-09-18,Race/Ethnicity,Black,321,1089,12173,1746,1410,13919
-2022-09-18,Race/Ethnicity,Hispanic,639,1920,21894,2990,2559,24884
-2022-09-18,Race/Ethnicity,Native American/Alaska Native,4,28,237,48,32,285
-2022-09-18,Race/Ethnicity,Native Hawaiian/Pacific Islander,3,15,198,31,18,229
-2022-09-18,Race/Ethnicity,Other/Unknown,116,137,2635,263,253,2898
-2022-09-18,Race/Ethnicity,White,1025,4534,44116,8085,5559,52201
-2022-09-25,Race/Ethnicity,2+ Races,44,311,1889,574,355,2463
-2022-09-25,Race/Ethnicity,Asian,261,1616,9865,3241,1877,13106
-2022-09-25,Race/Ethnicity,Black,235,1749,12408,3495,1984,15903
-2022-09-25,Race/Ethnicity,Hispanic,569,3115,22463,6105,3684,28568
-2022-09-25,Race/Ethnicity,Native American/Alaska Native,2,28,239,76,30,315
-2022-09-25,Race/Ethnicity,Native Hawaiian/Pacific Islander,4,27,202,58,31,260
-2022-09-25,Race/Ethnicity,Other/Unknown,77,223,2712,486,300,3198
-2022-09-25,Race/Ethnicity,White,766,6751,44882,14836,7517,59718
-2022-10-02,Race/Ethnicity,2+ Races,18,180,1907,754,198,2661
-2022-10-02,Race/Ethnicity,Asian,215,955,10080,4196,1170,14276
-2022-10-02,Race/Ethnicity,Black,216,1109,12624,4604,1325,17228
-2022-10-02,Race/Ethnicity,Hispanic,447,2167,22910,8272,2614,31182
-2022-10-02,Race/Ethnicity,Native American/Alaska Native,5,20,244,96,25,340
-2022-10-02,Race/Ethnicity,Native Hawaiian/Pacific Islander,4,27,206,85,31,291
-2022-10-02,Race/Ethnicity,Other/Unknown,64,205,2776,691,269,3467
-2022-10-02,Race/Ethnicity,White,668,4520,45550,19356,5188,64906
-2022-10-09,Race/Ethnicity,2+ Races,23,85,1930,839,108,2769
-2022-10-09,Race/Ethnicity,Asian,128,546,10208,4742,674,14950
-2022-10-09,Race/Ethnicity,Black,136,551,12760,5155,687,17915
-2022-10-09,Race/Ethnicity,Hispanic,339,1009,23249,9281,1348,32530
-2022-10-09,Race/Ethnicity,Native American/Alaska Native,6,9,250,105,15,355
-2022-10-09,Race/Ethnicity,Native Hawaiian/Pacific Islander,1,10,207,95,11,302
-2022-10-09,Race/Ethnicity,Other/Unknown,49,85,2825,776,134,3601
-2022-10-09,Race/Ethnicity,White,565,2549,46115,21905,3114,68020
-2022-10-16,Race/Ethnicity,2+ Races,19,51,1949,890,70,2839
-2022-10-16,Race/Ethnicity,Asian,135,260,10343,5002,395,15345
-2022-10-16,Race/Ethnicity,Black,127,259,12887,5414,386,18301
-2022-10-16,Race/Ethnicity,Hispanic,308,518,23557,9799,826,33356
-2022-10-16,Race/Ethnicity,Native American/Alaska Native,1,6,251,111,7,362
-2022-10-16,Race/Ethnicity,Native Hawaiian/Pacific Islander,2,6,209,101,8,310
-2022-10-16,Race/Ethnicity,Other/Unknown,47,49,2872,825,96,3697
-2022-10-16,Race/Ethnicity,White,425,1093,46540,22998,1518,69538
-2022-10-23,Race/Ethnicity,2+ Races,10,32,1959,922,42,2881
-2022-10-23,Race/Ethnicity,Asian,106,176,10449,5178,282,15627
-2022-10-23,Race/Ethnicity,Black,102,212,12989,5626,314,18615
-2022-10-23,Race/Ethnicity,Hispanic,239,394,23796,10193,633,33989
-2022-10-23,Race/Ethnicity,Native American/Alaska Native,0,3,251,114,3,365
-2022-10-23,Race/Ethnicity,Native Hawaiian/Pacific Islander,2,6,211,107,8,318
-2022-10-23,Race/Ethnicity,Other/Unknown,31,43,2903,868,74,3771
-2022-10-23,Race/Ethnicity,White,305,812,46845,23810,1117,70655
-2022-10-30,Race/Ethnicity,2+ Races,11,34,1970,956,45,2926
-2022-10-30,Race/Ethnicity,Asian,71,153,10520,5331,224,15851
-2022-10-30,Race/Ethnicity,Black,82,160,13071,5786,242,18857
-2022-10-30,Race/Ethnicity,Hispanic,201,322,23997,10515,523,34512
-2022-10-30,Race/Ethnicity,Native American/Alaska Native,3,2,254,116,5,370
-2022-10-30,Race/Ethnicity,Native Hawaiian/Pacific Islander,3,0,214,107,3,321
-2022-10-30,Race/Ethnicity,Other/Unknown,30,21,2933,889,51,3822
-2022-10-30,Race/Ethnicity,White,259,588,47104,24398,847,71502
+2022-07-31,Race/Ethnicity,Native Hawaiian/Pacific Islander,32,0,73,1,32,74
+2022-07-31,Race/Ethnicity,Other/Unknown,295,2,668,6,297,674
+2022-07-31,Race/Ethnicity,White,5867,63,15732,129,5930,15861
+2022-08-07,Race/Ethnicity,2+ Races,363,2,883,3,365,886
+2022-08-07,Race/Ethnicity,Asian,1793,20,4608,26,1813,4634
+2022-08-07,Race/Ethnicity,Black,2522,8,5703,20,2530,5723
+2022-08-07,Race/Ethnicity,Hispanic,4467,26,10721,51,4493,10772
+2022-08-07,Race/Ethnicity,Native American/Alaska Native,55,1,131,1,56,132
+2022-08-07,Race/Ethnicity,Native Hawaiian/Pacific Islander,39,0,112,1,39,113
+2022-08-07,Race/Ethnicity,Other/Unknown,455,2,1123,8,457,1131
+2022-08-07,Race/Ethnicity,White,7878,71,23610,200,7949,23810
+2022-08-14,Race/Ethnicity,2+ Races,412,3,1295,6,415,1301
+2022-08-14,Race/Ethnicity,Asian,2017,39,6625,65,2056,6690
+2022-08-14,Race/Ethnicity,Black,2915,35,8618,55,2950,8673
+2022-08-14,Race/Ethnicity,Hispanic,4730,60,15451,111,4790,15562
+2022-08-14,Race/Ethnicity,Native American/Alaska Native,41,2,172,3,43,175
+2022-08-14,Race/Ethnicity,Native Hawaiian/Pacific Islander,35,0,147,1,35,148
+2022-08-14,Race/Ethnicity,Other/Unknown,568,10,1691,18,578,1709
+2022-08-14,Race/Ethnicity,White,8645,220,32255,420,8865,32675
+2022-08-21,Race/Ethnicity,2+ Races,186,5,1481,11,191,1492
+2022-08-21,Race/Ethnicity,Asian,926,44,7551,109,970,7660
+2022-08-21,Race/Ethnicity,Black,1277,69,9895,124,1346,10019
+2022-08-21,Race/Ethnicity,Hispanic,2172,108,17623,219,2280,17842
+2022-08-21,Race/Ethnicity,Native American/Alaska Native,25,1,197,4,26,201
+2022-08-21,Race/Ethnicity,Native Hawaiian/Pacific Islander,15,4,162,5,19,167
+2022-08-21,Race/Ethnicity,Other/Unknown,300,16,1991,34,316,2025
+2022-08-21,Race/Ethnicity,White,4102,390,36357,810,4492,37167
+2022-08-28,Race/Ethnicity,2+ Races,129,1,1610,12,130,1622
+2022-08-28,Race/Ethnicity,Asian,737,46,8288,155,783,8443
+2022-08-28,Race/Ethnicity,Black,908,83,10803,207,991,11010
+2022-08-28,Race/Ethnicity,Hispanic,1585,106,19208,325,1691,19533
+2022-08-28,Race/Ethnicity,Native American/Alaska Native,14,1,211,5,15,216
+2022-08-28,Race/Ethnicity,Native Hawaiian/Pacific Islander,19,2,181,7,21,188
+2022-08-28,Race/Ethnicity,Other/Unknown,206,24,2197,58,230,2255
+2022-08-28,Race/Ethnicity,White,2970,404,39327,1214,3374,40541
+2022-09-04,Race/Ethnicity,2+ Races,106,8,1716,20,114,1736
+2022-09-04,Race/Ethnicity,Asian,685,64,8973,219,749,9192
+2022-09-04,Race/Ethnicity,Black,724,93,11527,300,817,11827
+2022-09-04,Race/Ethnicity,Hispanic,1275,143,20483,468,1418,20951
+2022-09-04,Race/Ethnicity,Native American/Alaska Native,15,8,226,13,23,239
+2022-09-04,Race/Ethnicity,Native Hawaiian/Pacific Islander,12,2,193,9,14,202
+2022-09-04,Race/Ethnicity,Other/Unknown,209,17,2406,75,226,2481
+2022-09-04,Race/Ethnicity,White,2500,498,41827,1712,2998,43539
+2022-09-11,Race/Ethnicity,2+ Races,55,62,1771,82,117,1853
+2022-09-11,Race/Ethnicity,Asian,340,370,9313,589,710,9902
+2022-09-11,Race/Ethnicity,Black,335,356,11862,656,691,12518
+2022-09-11,Race/Ethnicity,Hispanic,758,606,21241,1074,1364,22315
+2022-09-11,Race/Ethnicity,Native American/Alaska Native,12,7,238,20,19,258
+2022-09-11,Race/Ethnicity,Native Hawaiian/Pacific Islander,5,8,198,17,13,215
+2022-09-11,Race/Ethnicity,Other/Unknown,98,50,2504,125,148,2629
+2022-09-11,Race/Ethnicity,White,1327,1860,43154,3572,3187,46726
+2022-09-18,Race/Ethnicity,2+ Races,45,173,1816,255,218,2071
+2022-09-18,Race/Ethnicity,Asian,287,1039,9600,1628,1326,11228
+2022-09-18,Race/Ethnicity,Black,323,1091,12185,1747,1414,13932
+2022-09-18,Race/Ethnicity,Hispanic,639,1917,21880,2991,2556,24871
+2022-09-18,Race/Ethnicity,Native American/Alaska Native,5,27,243,47,32,290
+2022-09-18,Race/Ethnicity,Native Hawaiian/Pacific Islander,3,14,201,31,17,232
+2022-09-18,Race/Ethnicity,Other/Unknown,117,136,2621,261,253,2882
+2022-09-18,Race/Ethnicity,White,1023,4541,44177,8113,5564,52290
+2022-09-25,Race/Ethnicity,2+ Races,44,304,1860,559,348,2419
+2022-09-25,Race/Ethnicity,Asian,261,1617,9861,3245,1878,13106
+2022-09-25,Race/Ethnicity,Black,238,1749,12423,3496,1987,15919
+2022-09-25,Race/Ethnicity,Hispanic,567,3114,22447,6105,3681,28552
+2022-09-25,Race/Ethnicity,Native American/Alaska Native,3,28,246,75,31,321
+2022-09-25,Race/Ethnicity,Native Hawaiian/Pacific Islander,4,30,205,61,34,266
+2022-09-25,Race/Ethnicity,Other/Unknown,76,223,2697,484,299,3181
+2022-09-25,Race/Ethnicity,White,766,6756,44943,14869,7522,59812
+2022-10-02,Race/Ethnicity,2+ Races,19,178,1879,737,197,2616
+2022-10-02,Race/Ethnicity,Asian,216,957,10077,4202,1173,14279
+2022-10-02,Race/Ethnicity,Black,216,1113,12639,4609,1329,17248
+2022-10-02,Race/Ethnicity,Hispanic,446,2159,22893,8264,2605,31157
+2022-10-02,Race/Ethnicity,Native American/Alaska Native,5,21,251,96,26,347
+2022-10-02,Race/Ethnicity,Native Hawaiian/Pacific Islander,4,27,209,88,31,297
+2022-10-02,Race/Ethnicity,Other/Unknown,65,200,2762,684,265,3446
+2022-10-02,Race/Ethnicity,White,667,4525,45610,19394,5192,65004
+2022-10-09,Race/Ethnicity,2+ Races,24,85,1903,822,109,2725
+2022-10-09,Race/Ethnicity,Asian,128,544,10205,4746,672,14951
+2022-10-09,Race/Ethnicity,Black,136,553,12775,5162,689,17937
+2022-10-09,Race/Ethnicity,Hispanic,338,1008,23231,9272,1346,32503
+2022-10-09,Race/Ethnicity,Native American/Alaska Native,7,8,258,104,15,362
+2022-10-09,Race/Ethnicity,Native Hawaiian/Pacific Islander,1,10,210,98,11,308
+2022-10-09,Race/Ethnicity,Other/Unknown,48,85,2810,769,133,3579
+2022-10-09,Race/Ethnicity,White,564,2554,46174,21948,3118,68122
+2022-10-16,Race/Ethnicity,2+ Races,19,51,1922,873,70,2795
+2022-10-16,Race/Ethnicity,Asian,133,260,10338,5006,393,15344
+2022-10-16,Race/Ethnicity,Black,127,258,12902,5420,385,18322
+2022-10-16,Race/Ethnicity,Hispanic,309,518,23540,9790,827,33330
+2022-10-16,Race/Ethnicity,Native American/Alaska Native,1,7,259,111,8,370
+2022-10-16,Race/Ethnicity,Native Hawaiian/Pacific Islander,2,6,212,104,8,316
+2022-10-16,Race/Ethnicity,Other/Unknown,47,49,2857,818,96,3675
+2022-10-16,Race/Ethnicity,White,425,1096,46599,23044,1521,69643
+2022-10-23,Race/Ethnicity,2+ Races,11,31,1933,904,42,2837
+2022-10-23,Race/Ethnicity,Asian,106,175,10444,5181,281,15625
+2022-10-23,Race/Ethnicity,Black,102,215,13004,5635,317,18639
+2022-10-23,Race/Ethnicity,Hispanic,239,394,23779,10184,633,33963
+2022-10-23,Race/Ethnicity,Native American/Alaska Native,0,3,259,114,3,373
+2022-10-23,Race/Ethnicity,Native Hawaiian/Pacific Islander,2,6,214,110,8,324
+2022-10-23,Race/Ethnicity,Other/Unknown,31,43,2888,861,74,3749
+2022-10-23,Race/Ethnicity,White,304,813,46903,23857,1117,70760
+2022-10-30,Race/Ethnicity,2+ Races,11,33,1944,937,44,2881
+2022-10-30,Race/Ethnicity,Asian,71,154,10515,5335,225,15850
+2022-10-30,Race/Ethnicity,Black,82,160,13086,5795,242,18881
+2022-10-30,Race/Ethnicity,Hispanic,200,325,23979,10509,525,34488
+2022-10-30,Race/Ethnicity,Native American/Alaska Native,3,2,262,116,5,378
+2022-10-30,Race/Ethnicity,Native Hawaiian/Pacific Islander,3,0,217,110,3,327
+2022-10-30,Race/Ethnicity,Other/Unknown,28,21,2916,882,49,3798
+2022-10-30,Race/Ethnicity,White,260,586,47163,24443,846,71606
+2022-11-06,Race/Ethnicity,2+ Races,2,10,1946,947,12,2893
+2022-11-06,Race/Ethnicity,Asian,47,89,10562,5424,136,15986
+2022-11-06,Race/Ethnicity,Black,47,98,13133,5893,145,19026
+2022-11-06,Race/Ethnicity,Hispanic,145,183,24124,10692,328,34816
+2022-11-06,Race/Ethnicity,Native American/Alaska Native,1,5,263,121,6,384
+2022-11-06,Race/Ethnicity,Native Hawaiian/Pacific Islander,0,3,217,113,3,330
+2022-11-06,Race/Ethnicity,Other/Unknown,39,18,2955,900,57,3855
+2022-11-06,Race/Ethnicity,White,163,426,47326,24869,589,72195

@@ -2,7 +2,7 @@
 This folder contains data on mpox vaccines that were administered by vaccinating facilities in NYC and reported to the CIR. This includes doses that were administered to NYC residents and non-NYC residents, such as individuals who work or study in NYC.
 
 ## Definitions:
-- **Doses Administered:** The number of monkeypox vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents.
+- **Doses Administered:** The number of mpox vaccine doses that have been administered in NYC and reported to the CIR. This includes doses administered to NYC residents and non-NYC residents.
 - **Dose Number:** Dose information is determined by the sequence of dates of vaccination event in the CIR. Data are broken out by the two-dose JYNNEOS vaccine series.
 -- **Dose 1:** First dose of a two-dose vaccine series
 -- **Dose 2:** Second dose of a two-dose vaccine series

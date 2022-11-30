@@ -1,5 +1,5 @@
 # NYC mpox Vaccination Data
-This repository contains data on the mpox vaccinations in New York City (NYC). You can view a visualization of these data on the NYC Health Department's [Monkeypox Vaccination Data webpage](https://www1.nyc.gov/site/doh/data/health-tools/monkeypox.page#vaccine).
+This repository contains data on the mpox vaccinations in New York City (NYC). You can view a visualization of these data on the NYC Health Department's [Mpox Vaccination Data webpage](https://www1.nyc.gov/site/doh/data/health-tools/monkeypox.page#vaccine).
 
 ***
 

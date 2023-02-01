@@ -1,7 +1,11 @@
 # NYC mpox Vaccination Data
-This repository contains data on the mpox vaccinations in New York City (NYC). You can view a visualization of these data on the NYC Health Department's [Mpox Vaccination Data webpage](https://www1.nyc.gov/site/doh/data/health-tools/monkeypox.page#vaccine).
+__Note:__  With the end of the federal public health emergency on January 31, 2023, NYC DOHMH will no longer update this GitHub repository. Please visit the NYC DOHMH website for a summary of the mpox outbreak in NYC from May to December: https://www.nyc.gov/site/doh/health/health-topics/monkeypox.page
+
+
 
 ***
+
+This repository contains archived data on the mpox vaccinations in New York City (NYC). 
 
 ## Citywide Immunization Registry and Reporting:
 Since 1996, the Citywide Immunization Registry (CIR) has been used as a database of patient immunization records submitted by NYC health care providers. It is accessible to authorized health care providers, schools, individuals, and agencies concerned with public health to help ensure that NYC residents receive all recommended immunizations. NYC health care providers report immunizations to the CIR as mandated by New York State (NYS) Public Health Law and the NYC Health Code. Pediatric providers are required to report all immunizations administered to children 0-18 years. Reporting adult immunizations requires consent. However, on July 29, 2022, the consent requirement was suspended by the [Governor&apos;s executive order](https://www.governor.ny.gov/executive-order/no-20-declaring-disaster-state-new-york) and the [Health Commissioner&apos;s order](https://www1.nyc.gov/assets/doh/downloads/pdf/monkeypox/monkeypox-order-reporting-vaccination-information.pdf) (PDF). These orders required providers to report all mpox vaccinations (for a child or adult) to the CIR.
